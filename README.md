@@ -4,6 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/ebiiim/logo?status.svg)](https://godoc.org/github.com/ebiiim/logo)
 [![Build Status](https://travis-ci.org/ebiiim/logo.svg?branch=master)](https://travis-ci.org/ebiiim/logo)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ebiiim/logo)](https://goreportcard.com/report/github.com/ebiiim/logo)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org)
 
 ## What is this?
 
