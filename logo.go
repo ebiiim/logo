@@ -21,7 +21,7 @@ var DefaultLogMessageMap = map[LogLevel]string{DEBUG: "[DEBUG] ", INFO: "[INFO] 
 
 // Logo represents the Logo logger.
 type Logo struct {
-	// Logger is the *log.Logger used for the Logo. The default is log.Printf.
+	// Logger is the *log.Logger used for the Logo. The default is log.Printf (log.std).
 	Logger *log.Logger
 	// Level determines the lowest log level to display.
 	Level LogLevel
