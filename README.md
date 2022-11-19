@@ -6,6 +6,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/ebiiim/logo)](https://goreportcard.com/report/github.com/ebiiim/logo)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org)
 
+ARCHIVED: It is recommended to use structured logging libraries.
+
 ## What is this?
 
 A simple logging library.
